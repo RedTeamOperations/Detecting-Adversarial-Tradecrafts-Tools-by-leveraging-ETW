@@ -13,7 +13,7 @@ To setup HELK, please refer the following Video : https://drive.google.com/drive
 3. Weaponizing ETW-Ti for Detection
 4. Detecting various "Defense Evasion" Techniques. (PPID, Command Line Spoofing etc.)
 5. Detecting .NET Tools and Attack Techniques (AppDomain Abuse, SharpPick etc.)
-6. Detection Techniques leveraged by C2 Agents
+6. Detecting Techniques leveraged by C2 Agents
 7. Detecting LOLBAS, BYOL & BYOI Techniques
 
 ## Tools Used </br>
