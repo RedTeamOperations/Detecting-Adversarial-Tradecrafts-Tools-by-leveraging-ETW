@@ -1,0 +1,21 @@
+{
+    "session_properties": {
+        "session_name": "My-Process-Trace",
+        "output_format": "event_log",
+        "buffering_timout_seconds":  10
+    },
+    "user_traces": [
+        {
+            "trace_name": "proc_trace",
+            "provider_name": "Microsoft-Windows-Threat-Intelligence",
+            "keywords_any": 255,
+            "level": 255
+        }
+    ],
+    "kernel_traces": [
+        {
+            "trace_name": "kernel_proc_trace",
+            "provider_name": "process"
+        }
+    ]
+}
