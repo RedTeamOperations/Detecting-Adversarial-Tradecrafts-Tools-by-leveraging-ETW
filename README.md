@@ -1,8 +1,12 @@
 # Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW
-
 :warning: The workshop is still in Progress, more tools and modules will be added in the upcoming weeks as they are covered.
 
-**Modules covered:**
+![This is an image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149955815/settings_images/JRafA2iSPu2lej6WSLaN_Detecting_Adversarial_poster_1.jpg)
+
+To setup HELK, please refer the following Video : https://drive.google.com/drive/folders/11ELLPmjHy6c3IuV9MJAlWMif0Y2kXlEq
+
+## Workshop Outline </br>
+
 - [X] **ETW Basics and Setup with HELK**
 - [X] **Playing around with multiple ETW Providers**
 - [X] **Weaponizing ETW-TI for Detection**
@@ -11,21 +15,6 @@
 - [ ] **Detecting .NET Tools and Attack Techniques (AppDomain Abuse, SharpPick etc.)**
 - [ ] **Detecting LOLBAS, BYOL & BYOI Techniques**
 - [ ] **Detecting Techniques leveraged by various C2 Agents**
-
-
-To setup HELK, please refer the following Video : https://drive.google.com/drive/folders/11ELLPmjHy6c3IuV9MJAlWMif0Y2kXlEq
-
-![This is an image](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149955815/settings_images/JRafA2iSPu2lej6WSLaN_Detecting_Adversarial_poster_1.jpg)
-
-## Workshop Outline </br>
-
-1. ETW Basics and Setup with HELK
-2. Playing around with multiple ETW Providers
-3. Weaponizing ETW-Ti for Detection
-4. Detecting various "Defense Evasion" Techniques. (PPID, Command Line Spoofing etc.)
-5. Detecting .NET Tools and Attack Techniques (AppDomain Abuse, SharpPick etc.)
-6. Detecting Techniques leveraged by C2 Agents
-7. Detecting LOLBAS, BYOL & BYOI Techniques
 
 ## Tools Used </br>
 HELK : https://github.com/Cyb3rWard0g/HELK </br>
