@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+
+Tool: 			SilkService
+Provider: 		Microsoft-Windows-WMI-Activity
+Keyword:		Microsoft-Windows-WMI-Activity/Operational
+Keyword Value: 		0x4000000000000000 
+Output: 		EventLog
+
+------------------------------------------------------------------------------
+
+Keywords to look for, for Detecting PPID Spoofing (WMI Dechaining) via HELK
+
+Commandline: 		Arguments used by a Process.
+ClientProcessId : 	Real Parent PID
+CreatedProcessId : 	Child PID
+
+------------------------------------------------------------------------------
