@@ -1,6 +1,6 @@
 # Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW
 
-The workshop is still in Progress, more tools and references will be added in the upcoming weeks.
+The workshop is still in Progress, more tools and modules will be added in the upcoming weeks as they are covered.
 
 To setup HELK, please refer the following Video : https://drive.google.com/drive/folders/11ELLPmjHy6c3IuV9MJAlWMif0Y2kXlEq
 
