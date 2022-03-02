@@ -1,6 +1,17 @@
 # Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW
 
-The workshop is still in Progress, more tools and modules will be added in the upcoming weeks as they are covered.
+:warning: The workshop is still in Progress, more tools and modules will be added in the upcoming weeks as they are covered.
+
+**Modules covered:**
+- [X] **ETW Basics and Setup with HELK**
+- [X] **Playing around with multiple ETW Providers**
+- [X] **Weaponizing ETW-TI for Detection**
+- [X] **Detecting various "Defense Evasion" Techniques (PPID Spoofing)**
+- [ ] **Detecting various "Defense Evasion" Techniques (Command Line Spoofing)**
+- [ ] **Detecting .NET Tools and Attack Techniques (AppDomain Abuse, SharpPick etc.)**
+- [ ] **Detecting LOLBAS, BYOL & BYOI Techniques**
+- [ ] **Detecting Techniques leveraged by various C2 Agents**
+
 
 To setup HELK, please refer the following Video : https://drive.google.com/drive/folders/11ELLPmjHy6c3IuV9MJAlWMif0Y2kXlEq
 
