@@ -1,0 +1,9 @@
+This is a Note for installing Sealighter.
+
+Before you install the manifest file, add the following group and give them "All Permission". 
+Add Group: NT SERVICE\EventLog 
+
+Process: 
+Right Click sealighter.exe > Properties > Security > Edit > Add > Object Name: NT SERVICE\EventLog > Check Names > Ok > Tick All Allow > Apply
+
+
