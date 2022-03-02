@@ -1,9 +1,0 @@
-<SilkServiceConfig>
-    <ETWCollector>
-        <Guid>1</Guid>
-        <CollectorType>user</CollectorType>
-        <ProviderName>Microsoft-Windows-WMI-Activity</ProviderName>
-        <UserKeywords>0xffffffffffffffff</UserKeywords>
-        <OutputType>eventlog</OutputType>
-    </ETWCollector>
-</SilkServiceConfig>
