@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------------------------
+
+Tool: 			Windows Performance Tool (Computer Management)
+Provider: 		Microsoft-Windows-Kernel-Process
+Keyword:		WINEVENT_KEYWORD_PROCESS
+Keyword Value: 		0x0000000000000010 
+Output: 		EventLog
+
+--------------------------------------------------------------------------------------------------------------
+
+Keywords to look for, for Detecting PPID Spoofing (SelectMyParent / CreateProcess() Abuse) via Event Viewer
+
+Execution ProcessID : 		Real Parent PID
+ProcessID : 			Child PID
+
+--------------------------------------------------------------------------------------------------------------
